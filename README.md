@@ -6,7 +6,7 @@
 Github upload project
 
 ### Description
-This is project is about uploading the already done project in stage two into Github in view of learning git commands anf Github.
+This is project is about uploading the already done project in stage two into Github in view of learning git commands anf Github
 
 ### Files used
 bikeshare.py (python file) and other csv files
