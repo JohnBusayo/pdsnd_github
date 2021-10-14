@@ -25,7 +25,7 @@ import time
 	    """
 	    print('Hello! Let\'s explore some US bikeshare data!')
 	    #Initializing an empty city variable to store city choice from user
-	    #You will see this repeat throughout the program
+	    #You will see this repeat throughout the progra
 	    city = ''
 	    #Running this loop to ensure the correct user input gets selected else repeat
 	    while city not in CITY_DATA.keys():
