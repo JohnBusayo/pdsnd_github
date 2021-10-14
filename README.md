@@ -3,7 +3,7 @@
 ### Date created
 13/10/2021
 ### Project Title
-Github upload project
+Github upload project..
 
 ### Description
 This is project is about uploading the already done project in stage two into Github in view of learning git commands anf Github
